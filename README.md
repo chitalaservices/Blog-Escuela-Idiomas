@@ -1,2 +1,20 @@
-# Blog-Escuela-Idiomas
-Proyecto dedicado al crecimiento de la comunidad escolar a través de un blog de eventos 
+Blog escuela de idiomas
+
+[Descripción del proyecto]
+
+[Instalación]
+-Requisitos
+-Versión
+-Encargados del proyecto
+
+
+[Uso]
+
+[Documentación]
+
+
+
+[Road-map]
+
+[Licencia]
+
