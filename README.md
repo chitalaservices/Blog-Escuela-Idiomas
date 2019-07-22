@@ -15,6 +15,6 @@ Blog escuela de idiomas
 
 
 [Road-map]
-
+[Agradecimientos]
 [Licencia]
 
